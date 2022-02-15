@@ -1,2 +1,2 @@
-# CE207-CA-LA
+# CE207-CA-TA
 About Computer Architecture (CA)
